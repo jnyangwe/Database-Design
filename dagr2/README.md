@@ -1,3 +1,5 @@
+#NOTE: Check out documentation.pdf file for the full database documentation with images.
+
 # DATABASE DESIGN PROJECT
 
 ## MMDA: A Multi-Media Data Aggregator
